@@ -5,6 +5,7 @@ public class hello2 {
 	{
 		System.out.println("Hello I am Nitin Bro!!");
 		// I update the code...
+		System.out.println("Hello Bro!!");
 	}
 
 }
